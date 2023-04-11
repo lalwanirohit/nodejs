@@ -1,0 +1,9 @@
+this is the basic nodejs project with crud operation using mongoose ODM (object document mapping).
+
+we have installed following packages in it
+
+=> express
+=> mongoose
+=> dotenv
+=> body-parser
+=> nodemon (developer dependencies)
